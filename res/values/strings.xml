@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment 2</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    
+    <string name="click_button">Continue</string>
+	<string name="happy_easter">Happy Easter!</string>
+</resources>
